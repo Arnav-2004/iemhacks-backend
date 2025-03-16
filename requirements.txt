@@ -1,0 +1,10 @@
+Flask
+beautifulsoup4
+requests
+lxml
+gunicorn
+pymongo
+flask-cors
+python-dotenv
+Werkzeug
+google-genai
